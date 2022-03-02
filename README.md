@@ -8,18 +8,19 @@ Word-Scramble-iOS-Swift-UI
 ![Simulator Screen Shot - iPhone 13 Pro Max - 2022-03-03 at 07 29 21](https://user-images.githubusercontent.com/63089587/156468276-9d84aafd-a7cf-4a70-a23e-ec506303c7b1.png)
 ![Simulator Screen Shot - iPhone 13 Pro Max - 2022-03-03 at 07 29 12](https://user-images.githubusercontent.com/63089587/156468278-4d4b6946-e570-4632-b8b8-b634e2767508.png)
 
-Word Scramble is an iOS, Swift UI tutorial project designed to teach you about:
+Word Scramble is an iOS, Swift UI project with these implementaions:
 
 - Loading assets into a project
 - Parsing data from a text file/list into an array
 - Keyboard input
 - Removing AutoCapitalisation
 - Removing AutoCorrect
+- Autofocusing the input field
 - Implementing game logic and rules
 - Handling errors and communicating back to the user
 - Building a List View from user generated words
 - UI Toolbar Group
-- Custom alerts to alert rule breaking.
+- Custom alerts to alert rule breaking
 
 The aim of the game is to build as many of your own words as possible using the letters from a root word.
 
