@@ -33,7 +33,7 @@ The rules are:
 - You cannot enter the same word twice.
 - You cannot enter the root challenge word itself.
 
-I created my own extension to this project that implements additional features:
+I also created an extension that implements additional features to my base project:
 
 - Calculate all possible words from all possible permutations of the root letters.
 - Communicate to the user the total "word space" of how many new words are possible to create.
@@ -41,6 +41,6 @@ I created my own extension to this project that implements additional features:
 - Additional scrabble dictionary list asset for checking all possible words.
 - An improved scoring system that scales rewards based on word length.
 
-I also learned:
+In this implementation I discovered:
 
 - The advantages of using Set<> over Array<> for it's Big O(1) access speed.
